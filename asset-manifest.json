@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.ccadb7ad.css",
+    "main.js": "/drum-machine/static/js/main.745ff055.js",
+    "index.html": "/drum-machine/index.html",
+    "main.ccadb7ad.css.map": "/drum-machine/static/css/main.ccadb7ad.css.map",
+    "main.745ff055.js.map": "/drum-machine/static/js/main.745ff055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccadb7ad.css",
+    "static/js/main.745ff055.js"
+  ]
+}
