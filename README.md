@@ -3,7 +3,8 @@
 you can preview the markdown 
 
 ## link:-
-link of project:- [http:/kmj-007.github.io/drum-machine](http:/kmj-007.github.io/drum-machine)
+link of project:- [http:/kmj-007.github.io/drum-machine/](http:/kmj-007.github.io/drum-machine/)
+
 
 # Technology's used to build:-
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
