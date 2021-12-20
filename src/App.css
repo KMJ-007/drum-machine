@@ -8,7 +8,14 @@ body{
   align-items: center;
   background: lightgrey;
 }
-
+.header-title{
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin: 16px auto 37px auto;
+  font-size: 2.8em;
+  color: black;
+}
 #drum-machine{
   border: 4px solid orange;
   background: white;
@@ -58,4 +65,13 @@ body{
   box-sizing: border-box;
   width:200px;
   float:none
+}
+.footer {
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin: 15px auto 30px auto;
+  font-size: 0.9em;
+  color: black;
+ 
 }
